@@ -144,7 +144,6 @@
         $("#dynamic").removeClass("progress-bar-success");
         $("#dynamic").removeClass("progress-bar-danger");
         current_progress = 0;
-
     }
 
 });
